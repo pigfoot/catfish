@@ -25,4 +25,4 @@ This fork is optimized for Tranditional Chinese.
 
 ![](https://github.com/pigfoot/catfish/raw/gh-pages/images/catfish2.png)
 
-![](https://github.com/leaf-hsiao/catfish/images/catfish3.png)
+![](https://github.com/leaf-hsiao/catfish/raw/master/images/catfish3.png)
